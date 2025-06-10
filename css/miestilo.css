@@ -1,0 +1,134 @@
+h1{
+    color: brown;
+}
+
+.exile_regular {
+  font-family: "Exile", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo_azul{
+    background-color: #106eea;
+}
+
+#top_bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.correccion{
+   margin-left: 10px;
+}
+
+#hero{
+  background-image: url(/img/banner.png);
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.color_azul{
+  color: #106eea;
+}
+
+.color_blanco{
+  color: aliceblue;
+}
+
+.boton{
+  margin-top: 50px
+}
+
+.icon{
+  font-size: 36px;
+  color: #106eea;
+}
+
+.sombra{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.grande{
+  font-size: 50px;
+}
+
+.tamaño{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.centrado{
+  text-align: center;
+}
+
+.footer_fondo{
+  background-color: #f5f9ff;
+}
+
+.footer_tamaño{
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.color_negro{
+  color: black;
+}
+
+.division{
+  margin-bottom: 10px
+}
+
+.separacion{
+  margin-right: 15px;
+}
+
+.borde{
+  border-top: 1px solid
+}
+
+.footer_final{
+  padding-top: 30px
+}
+
+.base_footer{
+  padding-bottom: 40px;
+}
+
+.espacios{
+  margin-left: 15px
+}
+
+.contact{
+  background-color: azure;
+}
+
+.caja_de_servicios{
+  border: 1px solid #444444;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.fondo_azul_claro{
+  background-color: aqua;
+  padding: 20px 0px;
+}
+
+#marcas{
+  background-color: aliceblue;
+}
+
+.paddin_general{
+  padding: 20px 20px;
+}
